@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+insightface
+onnxruntime
+supabase
+python-multipart
+geocoder
+python-dotenv
